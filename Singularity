@@ -3,6 +3,11 @@ From: ubuntu:16.04
 
 IncludeCmd: yes
 
+%labels
+    AUTHOR icaoberg
+    EMAIL icaoberg@cmu.edu
+    WEBSITE http://www.cbd.cmu.edu/icaoberg
+
 %runscript
     exec /bin/bash "$@"
 
