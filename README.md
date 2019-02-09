@@ -15,3 +15,8 @@ singularity pull --name birthday.simg shub://icaoberg/singularity-birthday
 ```
 singularity run --app birthday birthday.simg
 ```
+
+---
+[![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
+
+Copyleft © 2018-2019 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Computational Biology Department](http://www.cbd.cmu.edu) in [Carnegie Mellon University](http://www.cmu.edu)
