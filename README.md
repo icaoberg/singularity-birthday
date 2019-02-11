@@ -53,25 +53,20 @@ Documentation can be found at https://github.com/IonicaBizau/birthday
 
 ## Example
 ```
-singularity run --app birthday singularity-birthday.simg -n "Albert Einstein" -d 04/01/1643
-info  Inserted successfully
-
-singularity run --app birthday singularity-birthday.simg -n "Isaac Newtown" -d 04/01/1643
+singularity run --app birthday singularity-birthday.simg -n "Isaac Newton" -d 04/01/1643
 info  Inserted successfully
 
 singularity run --app birthday singularity-birthday.simg -n "Nikola Tesla" -d 07/10/1856
 info  Inserted successfully
 
 singularity run --app birthday singularity-birthday.simg
-┌─┬───────────────┬───────────────┬───────────────┬───────────────┐
-│#│Name           │Birthday       │Age            │               │
-├─┼───────────────┼───────────────┼───────────────┼───────────────┤
-│1│Albert Einstein│04 January     │376            │a month ago    │
-├─┼───────────────┼───────────────┼───────────────┼───────────────┤
-│2│Isaac Newtown  │04 January     │376            │a month ago    │
-├─┼───────────────┼───────────────┼───────────────┼───────────────┤
-│3│Nikola Tesla   │07 October     │162 → 163      │in 8 months    │
-└─┴───────────────┴───────────────┴───────────────┴───────────────┘
+┌─┬────────────┬────────────┬────────────┬────────────┐
+│#│Name        │Birthday    │Age         │            │
+├─┼────────────┼────────────┼────────────┼────────────┤
+│1│Isaac Newton│04 January  │376         │a month ago │
+├─┼────────────┼────────────┼────────────┼────────────┤
+│2│Nikola Tesla│07 October  │162 → 163   │in 8 months │
+└─┴────────────┴────────────┴────────────┴────────────┘
 ```
 
 ---
