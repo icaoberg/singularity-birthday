@@ -69,6 +69,9 @@ singularity run --app birthday singularity-birthday.simg
 └─┴────────────┴────────────┴────────────┴────────────┘
 ```
 
+## Disclaimer
+I am nothing but a humble programmer creating the container for this wonderful app. Please visit the [original developer](https://github.com/IonicaBizau) for more info about the app.
+
 ---
 [![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
 
