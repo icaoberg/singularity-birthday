@@ -73,3 +73,8 @@ singularity run --app birthday singularity-birthday.simg
 │3│Nikola Tesla   │07 October     │162 → 163      │in 8 months    │
 └─┴───────────────┴───────────────┴───────────────┴───────────────┘
 ```
+
+---
+[![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
+
+Copyleft © 2018-2019 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Computational Biology Department](http://www.cbd.cmu.edu) in [Carnegie Mellon University](http://www.cmu.edu)
