@@ -1,6 +1,10 @@
 # birthday
 [![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/2316)
 [![Build Status](https://travis-ci.org/icaoberg/singularity-birthday.svg?branch=master)](https://travis-ci.org/icaoberg/singularity-birthday)
+[![GitHub issues](https://img.shields.io/github/issues/icaoberg/singularity-birthday.svg)](https://github.com/icaoberg/singularity-birthday/issues)
+[![GitHub forks](https://img.shields.io/github/forks/icaoberg/singularity-birthday.svg)](https://github.com/icaoberg/singularity-birthday/network)
+[![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-birthday.svg)](https://github.com/icaoberg/singularity-birthday/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
 ![birthday](https://camo.githubusercontent.com/99ecb59d128268cd6d518befe9486f07733ade61/687474703a2f2f692e696d6775722e636f6d2f386a72397478442e706e67)
 
